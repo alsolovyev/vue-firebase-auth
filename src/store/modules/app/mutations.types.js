@@ -1,0 +1,1 @@
+export const CHANGE_APP_STATUS = 'CHANGE_APP_STATUS'

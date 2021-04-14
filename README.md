@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![](https://habrastorage.org/webt/ra/9i/0d/ra9i0dfwywou249lylr14725kaw.jpeg)
+![Vue firebase auth](https://habrastorage.org/webt/ey/on/sx/eyonsxaah6enn7lrm-t5awj-sp4.jpeg)
 
 
 ## 🚀 Usage
